@@ -46,17 +46,4 @@ Cada produto é representado por um objeto com a seguinte estrutura:
    ```
 
 3. Abra o arquivo `index.html` no navegador:
-   - Você pode simplesmente dar duplo clique nele ou usar uma extensão como "Live Server" no VS Code.
-
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido por **Sandro** com foco em aprendizado de estrutura de dados, manipulação DOM e lógica de programação com JavaScript.
-
-### 🌐 Redes Sociais
-- [📸 Instagram: @eisandromc](https://instagram.com/eisandromc)
-- [💼 LinkedIn: @eisandromc](https://linkedin.com/in/eisandromc)
-- [🐙 GitHub: @eisandromc](https://github.com/eisandromc)
-
----
-
-Sinta-se à vontade para contribuir, enviar sugestões ou relatar problemas!
+   - Você pode simplesmente dar duplo clique nele ou usar uma extensão como "Live Server" no VS Code.!
